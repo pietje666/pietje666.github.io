@@ -1,1 +1,7 @@
+title: Pietje666 Github page
+description: VRT.NU and Random File Copier
 theme: jekyll-theme-architect
+show_downloads: false
+google_analytics: UA-124195700-1
+plugins:
+  - jekyll-seo-tag
